@@ -1,6 +1,7 @@
 # stupid-emails
-A simple Python script to tag your G-Mail with AI.
+A simple Python script to tag your G-Mail with AI + a custom prompt you set.
 
+![Alt text](https://i.imgur.com/QVF3yVX.gif)
 
 1. `git clone https://github.com/farzaa/stupid-emails.git`
 2. `cd stupid-emails`
