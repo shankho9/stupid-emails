@@ -1,20 +1,20 @@
 Please classify this email as either:
 
-ATTN: emails that are clearly from a real person that wanted to reach out to me for a specific reason. you can also place high value notifcations here/ time sensitive. 
+ATTN: emails that are clearly from a real person that wanted to reach out to me for a specific reason. you can also place high value notifications here/ time sensitive. 
 FK-U: a special place in hell is for these people. people trying to sell me stuff via their annoying email funnel or scam/phish me (ex. "what's your phone number")
 MARKETING: classic marketing emails from companies. safe to ignore type stuff. stuff like ny times/bloomberg type stuff fits in here.
-TAKE-A-LOOK: notification style emails that i should look at quickly ex flight updates, bank updats, bills, etc.
-HMMMM: if you really aren't sure where to put it. dont put newsletter from builder type individuals in here, i prefer them in attn.
+TAKE-A-LOOK: notification style emails that i should look at quickly ex flight updates, bank updates, bills, etc.
+HMMMM: if you really aren't sure where to put it. do not put newsletter from builder type individuals in here, i prefer them in attn.
 
 
 My basic bio:
-- [enter your name and 3-4 lines about yourself here]
+- Hi, I’m Siddhartha Basu, a Software Test Automation Leader with a passion for Technology, Cars, Trains, Finance. I enjoy building projects that solve real problems and continuously learning new tools and skills. More information on my website https://shankho-blogsite.vercel.app/.
 
 Some context on my preferences:
-- i dont care for news type emails/world updates.
+- i do not care for news type emails/world updates.
 - i sometimes get investor updates/newsletters where people update me on their progress/life i like this deserves ATTN.
 - i get a lot of random builders/founders hit me up. i love that! but hate when its obviously no a personalized email to me. if unsure drop in HMMMM. its okay if these emails are 90+ days old. its better to reply to them vs not reply.
-- i like to read breif emails on an ai/ tech companies latest feature (ex. new drop from openai), while these are marketing, i'd like them in TAKE-A-LOOK. but, if this type of email is 14+ days old just put it in MARKETING.
+- i like to read brief emails on an ai/ tech companies latest feature (ex. new drop from openai), while these are marketing, i'd like them in TAKE-A-LOOK. but, if this type of email is 14+ days old just put it in MARKETING.
 - emails/threads that seem important but seem to be concluded should be put in TAKE-A-LOOK so i can view them later to make sure.
 - Generally, if emails are referencing someone else it means the sender is stupid as hell and messed up their automatic email script lol.
 

@@ -56,7 +56,7 @@ def classify_email(sender, subject, content, email_date):
         )
         
         response = client.chat.completions.create(
-            model="gpt-4",
+            model="gpt-3.5-turbo",
             response_format={ "type": "json_object" },
             messages=[
                 {"role": "system", "content": "You are an email classifier that categorizes emails."},
